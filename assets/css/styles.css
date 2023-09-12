@@ -2325,7 +2325,7 @@ body {
 }
 
 #kaidas .bg-main {
-  background-image: url(/assets/img/bg-main.webp);
+  background-image: url(./assets/img/bg-main.webp);
   background-size: cover;
   background-position: top;
 }
@@ -2343,7 +2343,7 @@ body {
 }
 
 #kaidas #decorator {
-  background-image: url(/assets/img/bg-light.webp);
+  background-image: url(./assets/img/bg-light.webp);
   background-size: cover;
   background-position: top;
   overflow-x: hidden;
@@ -2439,7 +2439,7 @@ body {
 }
 
 #kaidas #gallery {
-  background-image: url(/assets/img/bg-dark.webp);
+  background-image: url(./assets/img/bg-dark.webp);
   background-size: cover;
   background-position: top;
   background-attachment: fixed;
